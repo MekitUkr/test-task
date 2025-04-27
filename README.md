@@ -19,3 +19,8 @@
   cd client
   npm run dev
 ```
+
+### Or use docker-compose.yml file
+```sh
+  docker compose up
+```
